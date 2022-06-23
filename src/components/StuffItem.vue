@@ -33,6 +33,7 @@
     width: 100%
     border-radius: 4px 4px 0 0
     height: auto
+    max-height: 200px
     object-fit: cover
 
   &__content

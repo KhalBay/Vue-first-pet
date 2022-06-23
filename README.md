@@ -17,9 +17,9 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
+### And navigate to the browser address
 ```
-npm run build
+http://localhost:8080/
 ```
 
 # About app
